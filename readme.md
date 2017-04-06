@@ -2,7 +2,7 @@
 1) install and run docker
 
 
-2) download [ghost blog] (https://ghost.org/zip/ghost-latest.zip)
+2) download [ghost blog](https://ghost.org/zip/ghost-latest.zip)
 
 3) rename downloaded zip file to `ghost.zip`
 
